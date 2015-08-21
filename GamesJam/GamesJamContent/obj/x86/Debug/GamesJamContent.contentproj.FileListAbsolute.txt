@@ -1,0 +1,2 @@
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJamContent\obj\x86\Debug\GamesJamContent.contentprojResolveAssemblyReference.cache
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJamContent\obj\x86\Debug\GamesJamContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,49 @@
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\obj\x86\Debug\GamesJam.csprojResolveAssemblyReference.cache
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\GamesJam.exe
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\GamesJam.pdb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\obj\x86\Debug\GamesJam.exe
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\obj\x86\Debug\GamesJam.pdb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\CaterpillerFULLSHEET.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\Floor.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\SunBig.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\CloudsLong.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\MoonBig.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\dfloor.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\DarkCloudsLong.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\PlayerSpriteSheet.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\PortalSpriteSheet.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\ltallblock.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\lsmall.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\dsmall.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\1280dbg.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\1280lbg.xnb
+C:\Users\Lewis' PC\Documents\UNI WORK\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\pitfall1.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\CaterpillerFULLSHEET.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\Floor.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\SunBig.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\CloudsLong.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\MoonBig.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\dfloor.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\DarkCloudsLong.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\PlayerSpriteSheet.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\PortalSpriteSheet.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\ltallblock.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\lsmall.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\dsmall.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\1280dbg.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\1280lbg.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\pitfall1.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\GamesJam.exe
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\GamesJam.pdb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\obj\x86\Debug\GamesJam.csprojResolveAssemblyReference.cache
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\obj\x86\Debug\GamesJam.exe
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\obj\x86\Debug\GamesJam.pdb
+C:\Users\joshdadak\Desktop\GamesJam\GamesJam\GamesJam\bin\x86\Debug\Content\Textures\gameover.xnb

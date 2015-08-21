@@ -1,0 +1,3 @@
+Content\Textures\background.xnb
+Content\Textures\playerTest.xnb
+Content\Fonts\Font.xnb

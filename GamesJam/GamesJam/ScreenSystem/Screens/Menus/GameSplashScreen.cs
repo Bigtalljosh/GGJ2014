@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+
+namespace GameJam2014TeamSemiColon.ScreenSystem.Screens.Menus
+{
+    class GameSplashScreen : SplashScreen
+    {
+
+        public GameSplashScreen()
+        {
+            //this.BackgroundTexture = guiguiu;
+            
+        }
+    }
+}
